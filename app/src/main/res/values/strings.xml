@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Meneire</string>
+
+
+    <string-array name="treatmentOptions">
+        <item>"No Treatment"</item>
+        <item>"Low Salt Diet"</item>
+        <item>"Low caffeine diet"</item>
+        <item>"Moduretic"</item>
+        <item>"Serc (Betahistine)"</item>
+        <item>"Stemetil (Prochlorperazine)"</item>
+        <item>"Valium (Diazepam)"</item>
+        <item>"Cinnarizine"</item>
+        <item>"Dimenhydrinate"</item>
+        <item>"Domperidone"</item>
+        <item>"Zofran"</item>
+        <item>"Oral Prednisone"</item>
+        <item>"Intratympanic Prednisone"</item>
+        <item>"Other"</item>
+
+    </string-array>
+
+</resources>
